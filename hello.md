@@ -1,1 +1,1 @@
-Hi CLaude!
+Hi Claude!
